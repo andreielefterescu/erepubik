@@ -1,0 +1,69 @@
+[2021-08-11 15:32:40.404] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 15:32:40.410] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 15:32:40.595] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 15:36:47.834] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 15:36:47.840] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 15:36:48.100] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 15:44:24.554] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 15:44:24.561] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 15:44:24.817] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 15:47:20.908] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 15:47:20.914] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 15:47:21.168] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 15:57:25.947] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 15:57:25.953] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 15:57:26.195] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 16:33:30.959] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 16:33:30.965] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 16:33:31.225] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 16:38:16.672] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 16:38:16.678] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 16:38:16.884] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 16:39:34.336] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 16:39:34.342] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 16:39:34.540] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:11:06.093] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:11:06.099] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:11:06.359] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:12:11.779] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:12:11.785] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:12:11.978] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:31:20.078] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:31:20.084] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:31:20.281] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:33:06.998] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:33:07.003] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:33:07.192] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:35:11.985] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:35:11.992] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:35:12.189] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:36:28.513] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:36:28.519] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:36:28.724] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:38:42.698] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:38:42.705] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:38:42.956] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:51:18.576] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:51:18.582] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:51:18.819] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:53:31.309] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:53:31.315] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:53:31.512] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:54:46.747] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:54:46.754] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:54:46.956] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:55:07.781] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:55:07.787] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:55:07.985] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:57:04.652] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:57:04.658] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:57:04.907] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:57:35.677] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:57:35.683] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:57:35.940] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 19:59:02.077] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 19:59:02.083] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 19:59:02.337] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2021-08-11 20:02:28.910] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2021-08-11 20:02:28.916] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2021-08-11 20:02:29.176] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
